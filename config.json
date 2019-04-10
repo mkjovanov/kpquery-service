@@ -1,0 +1,7 @@
+{
+	"searchUrl": "https://www.kupujemprodajem.com/search.php?action=list&submit%5Bsearch%5D=Tra%C5%BEi&dummy=name&data%5Bkeywords%5D={KP_QUERY_PLACEHOLDER}&data%5Bpage%5D={KP_PAGE_NUMBER}",
+	"itemNameNode": ".adName",
+	"itemPriceNode": ".adPrice",
+	"itemUrlNode": ".adName",
+	"numberOfPagesNode": ".pagesList.clearfix"
+}
